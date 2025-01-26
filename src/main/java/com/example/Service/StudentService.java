@@ -1,7 +1,7 @@
-package com.example.SpringBoot_Project_1.Service;
+package com.example.Service;
 
-import com.example.SpringBoot_Project_1.Dao.StudentDao;
-import com.example.SpringBoot_Project_1.Model.Student;
+import com.example.Dao.StudentDao;
+import com.example.Model.Student;
 import org.jdbi.v3.core.Jdbi;
 import org.springframework.stereotype.Service;
 

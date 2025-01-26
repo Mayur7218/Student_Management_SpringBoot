@@ -1,7 +1,7 @@
-package com.example.SpringBoot_Project_1.Controller;
+package com.example.Controller;
 
-import com.example.SpringBoot_Project_1.Model.Student;
-import com.example.SpringBoot_Project_1.Service.StudentService;
+import com.example.Model.Student;
+import com.example.Service.StudentService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.DeleteMapping;
 import org.springframework.web.bind.annotation.GetMapping;

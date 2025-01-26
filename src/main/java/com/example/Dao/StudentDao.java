@@ -1,6 +1,6 @@
-package com.example.SpringBoot_Project_1.Dao;
+package com.example.Dao;
 
-import com.example.SpringBoot_Project_1.Model.Student;
+import com.example.Model.Student;
 import org.jdbi.v3.sqlobject.config.RegisterBeanMapper;
 import org.jdbi.v3.sqlobject.customizer.Bind;
 import org.jdbi.v3.sqlobject.customizer.BindBean;

@@ -1,4 +1,4 @@
-package com.example.SpringBoot_Project_1.Model;
+package com.example.Model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
